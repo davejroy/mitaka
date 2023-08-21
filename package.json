@@ -48,7 +48,7 @@
   "dependencies": {
     "@github/mini-throttle": "^2.1.0",
     "axios": "^0.21.1",
-    "bulma": "^0.9.3",
+    "bulma": "^0.9.4",
     "ioc-extractor": "3.0.0",
     "js-base64": "^3.6.1",
     "js-sha256": "^0.9.0",
